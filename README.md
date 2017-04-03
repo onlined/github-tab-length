@@ -3,12 +3,10 @@
 A Chrome extension for setting the tab length in GitHub
 
 ## Installation
-```bash
-$ CHROME=<your Chrome/Chromium command> 
-$ git clone https://github.com/onlined/github-tab-length.git
-$ cd github-tab-length
-$ killall $CHROME # This will close all Chrome/Chromium windows
-$ $CHROME --pack-extension=ext
-```
-
-Then launch Chrome/Chromium and drag and drop `ext.crx` to the window. It's done!
+1. `$ git clone https://github.com/onlined/github-tab-length.git`
+2. Go to chrome://settings
+3. Click *Extensions*
+4. Check *Developer mode*
+5. Click *Load unpacked extension...*
+6. Select `github-tab-length/ext` directory
+7. It's done!
