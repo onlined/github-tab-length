@@ -2,6 +2,8 @@
 
 A Chrome extension for setting the tab length in GitHub
 
+<img src="https://raw.githubusercontent.com/onlined/github-tab-length/master/screenshot.png" alt="Screenshot">
+
 ## Installation
 1. `$ git clone https://github.com/onlined/github-tab-length.git`
 2. Go to `chrome://extensions`
